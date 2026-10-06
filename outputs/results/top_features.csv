@@ -1,0 +1,16 @@
+Feature,Importance
+numeric__Admission grade,0.1012328859031438
+numeric__Previous qualification (grade),0.08862470605938819
+numeric__Age at enrollment,0.08123114699710786
+numeric__Course,0.0792293153205689
+numeric__Father's occupation,0.07133429208152765
+numeric__Mother's occupation,0.06421397718807165
+numeric__Tuition fees up to date,0.05881490057199675
+numeric__GDP,0.05085268868067789
+numeric__Mother's qualification,0.04879881673741123
+numeric__Unemployment rate,0.04859070065764665
+numeric__Father's qualification,0.04844999409022381
+numeric__Application mode,0.047686201697833754
+numeric__Inflation rate,0.04342971646928433
+numeric__Scholarship holder,0.033998548395904354
+numeric__Application order,0.031611558681183684
